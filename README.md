@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working Web Development Intern at **Bharat Intern**
 
+- 🤝 I’m looking for **Web Development Internship**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aAljl41Bd3w6-UOCJbYCeJ5Tb59kDc3k/view?usp=sharing](https://drive.google.com/file/d/1aAljl41Bd3w6-UOCJbYCeJ5Tb59kDc3k/view?usp=sharing)
