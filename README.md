@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working as Web Development Intern at **Bharat Intern**
+- 🔭 I’m currently working as Technical Operations Engineer Intern at **Mcarbon Tech Innovation**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 I’m looking for **Web Development Internship**
+- 🤝 I’m looking for **Software Engineer Role**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aAljl41Bd3w6-UOCJbYCeJ5Tb59kDc3k/view?usp=sharing](https://drive.google.com/file/d/1aAljl41Bd3w6-UOCJbYCeJ5Tb59kDc3k/view?usp=sharing)
 
